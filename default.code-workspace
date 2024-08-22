@@ -1,0 +1,22 @@
+{
+  "folders": [
+    {
+      "name": "directoryA",
+      "path": "directoryA"
+    },
+    {
+      "name": "directoryB",
+      "path": "directoryB"
+    }
+  ],
+  "settings": {
+    "[typescript]": {
+      "editor.codeActionsOnSave": {
+        "quickfix.biome": "explicit",
+        "source.organizeImports.biome": "explicit"
+      },
+      "editor.defaultFormatter": "biomejs.biome",
+      "editor.tabSize": 2
+    }
+  }
+}

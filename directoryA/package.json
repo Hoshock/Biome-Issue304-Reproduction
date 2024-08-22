@@ -1,0 +1,10 @@
+{
+  "name": "directorya",
+  "main": "main.ts",
+  "dependencies": {
+    "typescript": "^5.7.0-dev.20240822"
+  },
+  "devDependencies": {
+    "@biomejs/biome": "^1.8.3"
+  }
+}
